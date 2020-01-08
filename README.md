@@ -8,4 +8,4 @@ Java实现
 
 前端使用jQuery，layui框架
 
-![111](C:\Users\小新\Desktop\111.jpg)
+![111](https://github.com/BrucessKING/Back-stage-Management-JAVA-/blob/master/111.jpg)
